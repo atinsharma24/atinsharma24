@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+\[!\[Header\](https://raw.githubusercontent.com/atinsharma24/<OWNER>/<OWNER>/readme_header.png "Header")](https://atinsharma24.netlify.app/)
+
+<img src="https://raw.githubusercontent.com/atinsharma24/atinsharma24/output/snake.svg" alt="SnakeAnimation" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
 
 
@@ -62,9 +67,6 @@ I'm a **Computer Science Engineering** student at **VIT Vellore**, passionate ab
 
 ![](https://komarev.com/ghpvc/?username=atinsharma24&color=brightgreen)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atinsharma24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🚀 My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -74,10 +76,6 @@ I'm a **Computer Science Engineering** student at **VIT Vellore**, passionate ab
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-
-
-![Snake animation](https://github.com/atinsharma24/atinsharma24/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -125,6 +123,4 @@ My birthday is on **October 31st**! 🎉 I enjoy celebrating with friends and sh
 ### 💬 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atinsharma24.2@gmail.com)
 
-# TEST ZONE
-______________________________________________________________________________________
 
