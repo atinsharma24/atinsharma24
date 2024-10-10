@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
 
-![Snake animation](https://raw.githubusercontent.com/atinsharma24/atinsharma24/output/github-contribution-grid-snake.svg)
 
 
 ## 👨‍💻 About Me
@@ -126,5 +125,6 @@ My birthday is on **October 31st**! 🎉 I enjoy celebrating with friends and sh
 ### 💬 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atinsharma24.2@gmail.com)
 
-
+# TEST ZONE
+______________________________________________________________________________________
 
