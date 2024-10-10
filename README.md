@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 \[!\[Header\](https://raw.githubusercontent.com/atinsharma24/<OWNER>/<OWNER>/readme_header.png "Header")](https://atinsharma24.netlify.app/)
 
-<img src="https://raw.githubusercontent.com/atinsharma24/atinsharma24/output/snake.svg" alt="SnakeAnimation" />
+
+-->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
 
