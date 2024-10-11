@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 -->
 
+![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
+
 
 <div style="text-align: right;">
   <img src="https://github.com/user-attachments/assets/c0363dd8-ca67-4c6d-a9af-62af757635e4" alt="octocat" width="600" />
@@ -30,7 +32,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=atinsharma24&color=brightgreen)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Cod![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
+<h1 align="center">Hi 👋, I'm Ahmet Serdar</h1>e&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 I'm a **Computer Science Engineering** student at **VIT Vellore**, passionate about exploring the realms of **web development**, **cybersecurity**, **data science**, and **artificial intelligence**. I have a keen interest in **astronomy** and love delving into the mysteries of the **quantum world**.
@@ -131,5 +134,11 @@ My birthday is on **October 31st**! 🎉 I enjoy celebrating with friends and sh
 
 ### 💬 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atinsharma24.2@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetSerdarTncy/AhmetSerdarTncy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetSerdarTncy/AhmetSerdarTncy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetSerdarTncy/AhmetSerdarTncy/output/github-contribution-grid-snake.svg">
+</picture>
 
 
