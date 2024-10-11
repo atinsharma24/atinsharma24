@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=atinsharma24&color=brightgreen)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Cod![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
-<h1 align="center">Hi 👋, I'm Ahmet Serdar</h1>e&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Cod![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)e&weight=500&size=24&pause=1000&width=435&lines=Hey%2C+I'm+Atin+Sharma;Web+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Lover;And+much+more....)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 I'm a **Computer Science Engineering** student at **VIT Vellore**, passionate about exploring the realms of **web development**, **cybersecurity**, **data science**, and **artificial intelligence**. I have a keen interest in **astronomy** and love delving into the mysteries of the **quantum world**.
