@@ -95,6 +95,7 @@ I'm a **Computer Science Engineering** student at **VIT Vellore**, passionate ab
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/atinsharma24)
 
 
 ## ✨ Fun Fact
