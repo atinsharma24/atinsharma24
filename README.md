@@ -14,8 +14,6 @@ Core stack: **TypeScript · Python · Node.js · FastAPI · LangGraph · pgvecto
 
 ## 🚀 Current Projects
 
-- **VyaparSaarthi (VyaparGPT)** — WhatsApp LLM assistant for SMBs built at OpenBiz Software India. RAG + pgvector retrieval over business knowledge, ~40 SMB pilots in production, multi-turn conversation management.
-
 - **Multi-Agent Website Builder** — LangGraph-based multi-agent pipeline that generates full websites from a single prompt. Agents handle planning, code generation, and validation in a coordinated graph.
 
 - **AI-First CRM** — React + FastAPI + LangGraph + Groq. LangGraph tool-calling for intelligent lead actions, SSE streaming for real-time AI responses in the browser.
