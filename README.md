@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack AI Engineer with production experience building LLM-powered systems. Founding Engineer at **OpenBiz Software India**, where I shipped **VyaparSaarthi** — a WhatsApp-based LLM assistant for SMBs with RAG pipelines serving ~40 pilots in production.
+Full-Stack AI Engineer with production experience building LLM-powered systems. Founding Engineer at **OpenBiz Software India**, where I shipped a WhatsApp-based LLM assistant for SMBs with RAG pipelines serving ~40 pilots in production.
 
 B.Tech CSE @ **VIT Vellore**. Actively seeking **SDE-1 roles** at Indian AI / fintech / legaltech startups. Open to relocation within India.
 
