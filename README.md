@@ -18,10 +18,6 @@ A two agent Architect to Builder pipeline that turns structured business data in
 
 **Stack:** TypeScript, Node.js, Fastify, Zod, Supabase Storage, Vitest.
 
-### [Nimbus — RAG Workspace](https://github.com/atinsharma24/nimbus)
-
-Document ingestion, pgvector semantic search and streaming answers, built with Next.js, TypeScript, PostgreSQL, OpenAI embeddings and Groq.
-
 ### [DocGPT — Document Assistant](https://github.com/atinsharma24/docgpt)
 
 A React and Django application for PDF uploads and document question answering with OpenAI.
