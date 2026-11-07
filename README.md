@@ -17,13 +17,32 @@ I build database-backed web applications, APIs and LLM-powered workflows. My foc
 - Worked across implementation, production debugging, deployment and release, using Claude Code and Codex in the development workflow.
 
 **OpenBiz Software India Pvt Ltd — Software Developer**  
-*January–June 2026 · preceded by a Software Engineer Internship, August–December 2025*
+*January–June 2026*
 
 - Built frontend and backend features for a business platform supporting 1,000+ active users.
 - Reduced API latency by 40% through PostgreSQL query optimization, indexing and response caching.
 - Built VyaparGPT, a WhatsApp business assistant piloted with 40+ SMBs, including HMAC webhook validation, expiring conversation context and OpenAI-to-Gemini fallback.
 
+**OpenBiz Software India Pvt Ltd — Software Engineer Intern**  
+*August–December 2025*
+
 ## Selected projects
+
+### [Nimbus — RAG Document Workspace](https://github.com/atinsharma24/nimbus) · In progress
+
+A full-stack document intelligence workspace with advanced retrieval, streaming answers and built-in quality evaluation.
+
+- **Hybrid search:** combines pgvector semantic retrieval with PostgreSQL full-text search using Reciprocal Rank Fusion, followed by heuristic reranking.
+- **HyDE query expansion:** optionally generates hypothetical answers to build richer query embeddings.
+- **Query decomposition:** breaks complex questions into sub-queries, retrieves context in parallel, deduplicates results and synthesizes a final answer.
+- **Streaming chat with sources:** SSE responses, document citation metadata, persisted conversations and multi-turn history.
+- **Document workflow:** PDF, Markdown and text ingestion, overlapping token-based chunking, processing/failure status and re-indexing from stored uploads.
+- **Collections:** organize documents and scope retrieval to a selected collection.
+- **Automated RAG evaluation:** LLM-as-judge faithfulness and relevance scoring after streaming, with query logs and analytics for p50/p95 pipeline latency, query volume and cited documents.
+- **Swappable model integrations:** Groq and Anthropic generators behind typed interfaces, with OpenAI embeddings.
+- **Engineering foundations:** strict TypeScript, explicit Result/error handling, modular pipeline stages, Vitest unit tests and Docker-based local PostgreSQL/pgvector setup.
+
+**Stack:** Next.js, React, TypeScript, PostgreSQL, pgvector, Drizzle ORM, OpenAI, Groq, Anthropic, Vitest.
 
 ### [AI Website Builder Pipeline](https://github.com/atinsharma24/website-builder-pipeline)
 
@@ -45,16 +64,6 @@ A full-stack project and task management application built as a take-home projec
 
 **Stack:** TypeScript, React, Express, MySQL, Prisma, Redis, BullMQ.
 
-### [Nimbus — RAG Document Workspace](https://github.com/atinsharma24/nimbus) · In progress
-
-A document upload, semantic search and streaming question-answering workspace.
-
-- Background document ingestion with per-document processing status.
-- PostgreSQL/pgvector retrieval, OpenAI embeddings and streamed LLM responses.
-- Typed pipeline interfaces and explicit result/error handling.
-
-**Stack:** Next.js, TypeScript, PostgreSQL, pgvector, Drizzle ORM, Groq, OpenAI.
-
 ### [DocGPT — Document Assistant](https://github.com/atinsharma24/docgpt)
 
 A React and Django application for PDF uploads, document management and question answering with OpenAI.
@@ -70,4 +79,4 @@ A React and Django application for PDF uploads, document management and question
 
 ## Education
 
-**B.Tech in Computer Science and Engineering — VIT Vellore, 2026**
+**B.Tech in Computer Science and Engineering — VIT Vellore**
