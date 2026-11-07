@@ -13,15 +13,19 @@ I build database-backed web applications, APIs and LLM-powered workflows. My foc
 **AGI Ready Inc. — Full-Stack Developer, Independent Contractor**  
 *July–September 2026 · Remote*
 
-- Delivered Next.js, TypeScript and Node.js product features, third-party API integrations, webhooks and background workflows.
-- Worked across implementation, production debugging, deployment and release, using Claude Code and Codex in the development workflow.
+- Built and shipped full-stack product features with Next.js, TypeScript and Node.js across concurrent client products; translated ambiguous requirements into scoped deliverables and iterative releases with a small team.
+- Designed and integrated service APIs across third-party platforms and AI providers, including webhook receivers and asynchronous background workflows.
+- Owned production debugging, deployment and release; used Claude Code and Codex to accelerate implementation while directing architecture and integration decisions across the full application stack.
 
-**OpenBiz Software India Pvt Ltd — Software Developer**  
-*January–June 2026*
+**OpenBiz Software India Pvt Ltd — Software Developer, Full-time**  
+*January–June 2026 · Remote / Bangalore*
 
-- Built frontend and backend features for a business platform supporting 1,000+ active users.
-- Reduced API latency by 40% through PostgreSQL query optimization, indexing and response caching.
-- Built VyaparGPT, a WhatsApp business assistant piloted with 40+ SMBs, including HMAC webhook validation, expiring conversation context and OpenAI-to-Gemini fallback.
+- Built a TypeScript MERN platform serving 1,000+ active users; implemented frontend and backend features with React, Node.js, PostgreSQL/Supabase and MongoDB data workflows.
+- Built VyaparGPT, a WhatsApp-native AI assistant piloted with 40+ SMBs: handled HMAC-SHA256 webhook validation, expiring session context, LLM dispatch and response delivery.
+- Implemented OpenAI-to-Gemini fallback on rate limits, server errors and timeouts, normalizing provider responses to preserve a consistent application interface.
+- Reduced API latency by 40% by fixing PostgreSQL N+1 queries with JOIN rewrites, composite indexes and TTL caching; debugged performance issues on critical endpoints.
+- Built Razorpay subscription billing with HMAC-SHA256-verified, idempotent webhooks to maintain consistent payment state.
+- Owned GitHub Actions and Vercel CI/CD with per-PR automated tests and staged, approval-gated production releases; reduced deployment cycle time by 30%.
 
 **OpenBiz Software India Pvt Ltd — Software Engineer Intern**  
 *August–December 2025*
