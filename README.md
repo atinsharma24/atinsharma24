@@ -6,7 +6,7 @@ I build database-backed web applications, APIs and LLM-powered workflows. My foc
 
 **Open to full-time backend, full-stack and AI application engineering roles.** Remote from India preferred; open to Hyderabad hybrid/onsite opportunities. Available to join immediately.
 
-[Email](mailto:atinsharma24@gmail.com) · [Portfolio](https://atinsharma24.netlify.app)
+[Email](mailto:atinsharma24@gmail.com)
 
 ## Experience
 
